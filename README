@@ -1,0 +1,5 @@
+PCACluster
+
+Uses a KNN approch to clusterize 2d plots from principal component analysis and outputs the trajectories (if added one)
+
+Usage %s -i <2dproj_xvg> -o <output_prefix> -n n_clusters -t trjname
